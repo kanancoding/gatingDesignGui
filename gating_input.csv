@@ -1,0 +1,4 @@
+Head,LossFactor,FlowRate,CastingHeight_P,TotalCasting_C,Name,GateTh
+200,0.4,2,30,100,choke_1,4
+200,0.4,2,30,100,runner_1.1_1,4
+200,0.4,2,30,100,ingate_1.5_1,4
